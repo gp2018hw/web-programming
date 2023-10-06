@@ -4,15 +4,13 @@ Repository for F28WP.
 ### Contents
 
 - **Week Two**
-Week Two comprised of my basic git and github setup, testing forks and pushing commits through my text editor of choice, VS Code.
-
-Set up a basic file system with a singular folder and added some simple code to each.
+Week Two comprised of my basic git and github setup, testing forks and pushing commits through my text editor of choice, VS Code. Set up a basic file system with a singular folder and added some simple code to each.
 
 - **Week Three**
 Completing lab exercises and code examples given in the lectures to see how they work and if they work. Also creating this readme.md file to add documentation to everything I create.
 
 - **Week Four**
-Updated README.md file to include a checklist in order to keep track of my progress throughout the course.
+Updated README.md file to include a checklist in order to keep track of my progress throughout the course. Implemented JQuery examples and tested them to deepen my understanding on the topic area. I wanted to try out a new file system for week four but may revert back to the original come week 5 start as it looks very cluttered. This week contains 4 short examples of JQuery in action. 
 
 ### Github Checklist
 Account Setup:
@@ -26,7 +24,7 @@ Repository Basics:
     - [x] Can create a new repository on GitHub.
     - [x] Understands the purpose of a README file.
     - [x] Knows how to initialize a repository with a README.
-    - [ ] Can describe the importance of .gitignore files.
+    - [x] Can describe the importance of .gitignore files.
 
     Cloning and Forking:
 
