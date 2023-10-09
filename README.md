@@ -7,10 +7,13 @@ Repository for F28WP.
 Week Two comprised of my basic git and github setup, testing forks and pushing commits through my text editor of choice, VS Code. Set up a basic file system with a singular folder and added some simple code to each.
 
 - **Week Three**
-Completing lab exercises and code examples given in the lectures to see how they work and if they work. Also creating this readme.md file to add documentation to everything I create.
+Completing lab exercises and code examples given in the lectures to see how they work and if they work. Also creating this readme.md file to add documentation to everything I create. Also set up a GitHub Pages if I wish to test my work on a website.
 
 - **Week Four**
 Updated README.md file to include a checklist in order to keep track of my progress throughout the course. Implemented JQuery examples and tested them to deepen my understanding on the topic area. I wanted to try out a new file system for week four but may revert back to the original come week 5 start as it looks very cluttered. This week contains 4 short examples of JQuery in action. 
+
+- **Week Five**
+This week is all about XML & RSS. The contents of this weeks folder will be general testing of XML & RSS
 
 ### Github Checklist
 Account Setup:
