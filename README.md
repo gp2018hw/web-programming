@@ -1,19 +1,34 @@
 # web-programming
 Repository for F28WP. 
 
+## About this Repository
+This repository is for the F28WP course. Here you will find __HTML__, __CSS__ and mainly __JavaScript__. You will also be able to find examples of __JSON__, __XML__ and __AJAX__. This repository has been made to test my knowledge of GitHub and is assessed over the entirety of the course. Contents of the repository are listed below as well as a checklist so I can keep track of my progress on knowledge of GitHub.
+
+You can also find the course contents at the bottom of this file so you can see what is used within the files within this repository.
+
+****
+
 ### Contents
 
-- **Week Two**
+- **Week Two** <ul>
 Week Two comprised of my basic git and github setup, testing forks and pushing commits through my text editor of choice, VS Code. Set up a basic file system with a singular folder and added some simple code to each.
+</ul>
+<br>
 
-- **Week Three**
+- **Week Three** <ul>
 Completing lab exercises and code examples given in the lectures to see how they work and if they work. Also creating this readme.md file to add documentation to everything I create. Also set up a GitHub Pages if I wish to test my work on a website.
+</ul>
+<br>
 
-- **Week Four**
+- **Week Four** <ul>
 Updated README.md file to include a checklist in order to keep track of my progress throughout the course. Implemented JQuery examples and tested them to deepen my understanding on the topic area. I wanted to try out a new file system for week four but may revert back to the original come week 5 start as it looks very cluttered. This week contains 4 short examples of JQuery in action. 
+</ul>
+<br>
 
-- **Week Five**
-This week is all about XML & RSS. The contents of this weeks folder will be general testing of XML & RSS
+- **Week Five** <ul>
+This week is all about XML & RSS. The contents of this weeks folder will be general testing of XML & RSS. I have implemented a simple RSS feed using the fox news website and added my own layout to it using a flexbox.
+</ul>
+<br>
 
 ### Github Checklist
 Account Setup:
