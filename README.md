@@ -30,6 +30,11 @@ This week is all about XML & RSS. The contents of this weeks folder will be gene
 </ul>
 <br>
 
+- **Week Six** <ul>
+This week is consolidation week. I used the repository this week to revise on JQuery, XML and JSON. 
+</ul>
+<br>
+
 ### Github Checklist
 Account Setup:
 
