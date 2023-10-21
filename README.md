@@ -31,7 +31,9 @@ This week is all about XML & RSS. The contents of this weeks folder will be gene
 <br>
 
 - **Week Six** <ul>
-This week is consolidation week. I used the repository this week to revise on JQuery, XML and JSON. 
+This week is consolidation week. I used the repository this week to do a JQuery example and add images to my repository that I might use in my README file. They are in html format but will be changed so they can be viewed in image format on github at some point.
+
+I looked a bit into pull requests and branching and will be experimenting more with these next week.
 </ul>
 <br>
 
@@ -70,7 +72,7 @@ Repository Basics:
 
     Pull Requests:
 
-    - [ ] Can create a pull request to propose changes.
+    - [x] Can create a pull request to propose changes.
     - [ ] Understands the review process and how to request reviews.
     - [ ] Knows how to address feedback and make changes in a pull request.
 
