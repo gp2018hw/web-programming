@@ -37,6 +37,18 @@ I looked a bit into pull requests and branching and will be experimenting more w
 </ul>
 <br>
 
+- **Week Seven** <ul>
+This week has a small repository as I only looked at Sessional and Local Storage along with cookies. Some examples can be found in the Week Seven folder. I used this week to also look into .gitignore files and created a test file. I will be using one of these next week for NodeJS.
+</ul>
+<br>
+
+- **Week Eight** <ul>
+The repository this week is all about NodeJS and investigating it and getting to know about it better. There will be a a lot of examples from the lecture slides located in the Week Eight folder. I have used a branch this week in order to show my knowledge which I created inside github called "week 8" and switched to it in VSCode using the git checkout "week 8" command. All of the NodeJS material, including last weeks is located in this folder.
+
+I want to show my knowledge on branches so each week from now on will be created using a branch. 
+</ul>
+<br>
+
 ### Github Checklist
 Account Setup:
 
@@ -59,9 +71,9 @@ Repository Basics:
 
     Branching:
 
-    - [ ] Knows how to create a new branch in a repository.
-    - [ ] Understands the purpose of branches in version control.
-    - [ ] Can switch between branches.
+    - [x] Knows how to create a new branch in a repository.
+    - [x] Understands the purpose of branches in version control.
+    - [x] Can switch between branches.
     - [ ] Can merge branches using pull requests.
 
     Commits:
