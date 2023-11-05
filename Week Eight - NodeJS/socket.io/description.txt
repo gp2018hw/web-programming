@@ -1,0 +1,2 @@
+This is a working socket.io example tested on codesandox.io. If you wish to view the example then please go
+to this link https://codesandbox.io/s/rwk72n5v4m?from-embed=&file=/src/index.js.
