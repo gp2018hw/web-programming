@@ -49,6 +49,16 @@ I want to show my knowledge on branches so each week from now on will be created
 </ul>
 <br>
 
+- **Week Nine** <ul>
+The repository this week was blank due to a problem with the course so this week was spent reviewing previous content in the repository and just revising the general material. 
+</ul>
+<br>
+
+- **Week Ten** <ul>
+The course has resumed so this weeks repository contains more NodeJS stuff. I have merged the week 8 branch to the main as well as updating the course checklist found below. This weeks material is NodeJS & DB so that is what will be found here.
+</ul>
+<br>
+
 ### Github Checklist
 Account Setup:
 
@@ -74,7 +84,7 @@ Repository Basics:
     - [x] Knows how to create a new branch in a repository.
     - [x] Understands the purpose of branches in version control.
     - [x] Can switch between branches.
-    - [ ] Can merge branches using pull requests.
+    - [x] Can merge branches using pull requests.
 
     Commits:
 
@@ -85,8 +95,8 @@ Repository Basics:
     Pull Requests:
 
     - [x] Can create a pull request to propose changes.
-    - [ ] Understands the review process and how to request reviews.
-    - [ ] Knows how to address feedback and make changes in a pull request.
+    - [x] Understands the review process and how to request reviews.
+    - [x] Knows how to address feedback and make changes in a pull request.
 
     Collaboration:
 
