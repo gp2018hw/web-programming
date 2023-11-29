@@ -59,6 +59,9 @@ The course has resumed so this weeks repository contains more NodeJS stuff. I ha
 </ul>
 <br>
 
+- **Week Eleven** <ul>
+The final week of the course. Every item of the checklist has been ticked off to show my knowledge of each area of GitHub. This week will contain the final commits of the repository, making sure everything is up to date and documented correctly.
+
 ### Github Checklist
 Account Setup:
 
@@ -90,7 +93,7 @@ Repository Basics:
 
     - [x] Can make and commit changes to a repository.
     - [x] Understands the importance of clear and descriptive commit messages.
-    - [ ] Knows how to undo changes (revert back to older version).
+    - [x] Knows how to undo changes (revert back to older version).
 
     Pull Requests:
 
@@ -100,9 +103,9 @@ Repository Basics:
 
     Collaboration:
 
-    - [ ] Can collaborate with others by forking and contributing to open-source projects.
-    - [ ] Understands how to resolve merge conflicts.
-    - [ ] Knows how to use comments and discussions in pull requests.
+    - [x] Can collaborate with others by forking and contributing to open-source projects.
+    - [x] Understands how to resolve merge conflicts.
+    - [x] Knows how to use comments and discussions in pull requests.
 
     GitHub Pages (Optional):
 
